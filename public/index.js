@@ -23,6 +23,8 @@ chooseHeader.classList.add('hide')
 yourDuoHeader.classList.add('hide')
 compDuoHeader.classList.add('hide')
 
+console.log('hellloooooooo from the front-end of robot project')
+
 const makeRobotChoiceCard = (bot) => {
     return `
         <div class="bot-card outline">
